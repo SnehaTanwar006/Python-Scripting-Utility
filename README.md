@@ -1,2 +1,2 @@
-# Python_codes
-Python Assignment with program.
+# Python-Algorithms-Collection
+Curated library of scripts and algorithms.
